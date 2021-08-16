@@ -1,4 +1,7 @@
-Welcome to my GitHub,
+## Hi, 👋
+
+##### Welcome to my GitHub,
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=krushnabhanage10) [![Github](https://img.shields.io/github/followers/krushnabhanage10?label=Follow&style=social)](https://github.com/krushnabhanage10)
 
