@@ -6,8 +6,6 @@ A little more about me...
 
 ---
 - Name: Krushna Bhanage
-  hosts: GitHub
-  become: true
     - Cloud platform:
         - Azure Cloud
     - Operating Systems:
