@@ -16,11 +16,12 @@ A little more about me...
         - Ubuntu 18.04, 20.04
         - CentOS 7.x, 8.x,
         - Suse Linux 12.x, 15.x
+        - Windows server
     - Scripting Languages:
         - Bash
         - Python    
     - Infrastucture As a Code:
-        - Terraform
+        - Terraform Basics
         - Ansible
     - Software Provisioning/Configuration Management:
         - Ansible
