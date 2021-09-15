@@ -29,6 +29,7 @@ A little more about me...
         - Git
     - Continuous Integeration/Continuous Deployment:
         - Jenkins
+        - Azure Pipelines
     - Containerization:
         - Docker
     - Monitoring Tools:
