@@ -21,17 +21,17 @@ A little more about me...
         - Bash
         - Python    
     - Infrastucture As a Code:
-        - Terraform Basics
-        - Ansible
+        - Terraform
     - Software Provisioning/Configuration Management:
         - Ansible
     - Source Code Management/Version Control:
         - Git
     - Continuous Integeration/Continuous Deployment:
+        - Azure Pipelines?Releases
         - Jenkins
-        - Azure Pipelines
     - Containerization:
         - Docker
+        - Kubernetes
     - Monitoring Tools:
         - Prometheus+Grafana
         - Telegraf+Grafana
