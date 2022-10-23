@@ -34,8 +34,6 @@ A little more about me...
         - Kubernetes
     - Monitoring Tools:
         - Prometheus+Grafana
-        - Telegraf+Grafana
-        - Nagios
 ...  
 
 ### ⚙️ GitHub Analytics
